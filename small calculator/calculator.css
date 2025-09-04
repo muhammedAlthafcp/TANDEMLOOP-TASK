@@ -107,8 +107,6 @@ button:active { transform: translateY(1px) scale(.99); filter: brightness(.96); 
   align-items: center;
   color: var(--muted);
   font-size: 12px;
-
-  
 }
 .dot {
   width: 6px; height: 6px; border-radius: 50%; background: var(--accent);
